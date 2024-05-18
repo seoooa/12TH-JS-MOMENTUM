@@ -1,7 +1,7 @@
 ### 변경사항
 
 - 폰트 변경
-- 연도,월,일,요일 추가
+- 연도, 월, 일, 요일 추가
 - Log In, Submit 버튼 변경
 - Log In, Submit, X, Edit 버튼 hover 반응
 - 로그인 했을 때 greeting 코멘트 랜덤
